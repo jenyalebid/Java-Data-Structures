@@ -1,3 +1,5 @@
+package Algos;
+
 public class BaseSort {
 
     private PrintArray printArray;

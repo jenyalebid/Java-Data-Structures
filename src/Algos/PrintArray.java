@@ -1,3 +1,5 @@
+package Algos;
+
 public class PrintArray {
 
     private int[] array;

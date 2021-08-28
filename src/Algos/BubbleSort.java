@@ -1,3 +1,5 @@
+package Algos;
+
 public class BubbleSort extends BaseSort implements Sort{
 
 
@@ -9,7 +11,7 @@ public class BubbleSort extends BaseSort implements Sort{
 
 
     public BubbleSort(int[] numbers) {
-        super("Bubble   Sort");
+        super("Bubble   Algos.Sort");
         this.numbers = numbers;
     }
 

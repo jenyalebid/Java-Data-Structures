@@ -1,10 +1,12 @@
+package Algos;
+
 public class SelectionSort extends BaseSort implements Sort{
 
     private int[] numbers;
     private PrintArray printArray;
 
     public SelectionSort(int[] numbers) {
-        super("Selection Sort");
+        super("Selection Algos.Sort");
         this.numbers = numbers;
     }
 
